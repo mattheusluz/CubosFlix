@@ -172,6 +172,7 @@ body {
   align-items: center;
 
   background-position: center;
+  background-size: cover;
 }
 
 .highlight__info {
