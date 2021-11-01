@@ -1,5 +1,7 @@
 # Desafio Front-end Módulo 2 - Curso de Desnvolvimento de Software Cubos Academy
 
+[Acesse o site aqui](https://mattheusluz.github.io/CubosFlix/index.html)
+
 Construção de um website com [o seguinte design](https://www.figma.com/file/AL6hZ3Lq16Uj8mw1o4BzAK/Desafio-front-academy-2?node-id=0%3A1) que permita: 
 
 - Visualização de filmes
